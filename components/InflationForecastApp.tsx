@@ -430,8 +430,8 @@ export default function InflationForecastApp() {
       <footer style={{ textAlign: "center", padding: "32px 24px", borderTop: "1px solid var(--border)", marginTop: 48 }}>
         <p style={{ color: "var(--muted)", fontSize: 13 }}>
           Built by{" "}
-          <a href="mailto:adediranabiola160@gmail.com" style={{ color: "var(--accent)", textDecoration: "none" }}>
-            Abiola Adediran
+          <a href="https://adediran.xyz/contact" style={{ color: "var(--accent)", textDecoration: "none" }}>
+            Muhammed Adediran
           </a>{" "}
           · Holt-Winters ETS · NBS CPI Data
         </p>
